@@ -1,10 +1,10 @@
-#$ TITLE: Higor 4.3 Modes
-#$ FIRMWARE_VERSION: 4.3
+#$ TITLE: Higor 4.4 Modes
+#$ FIRMWARE_VERSION: 4.4
 #$ CATEGORY: MODES
 #$ STATUS: COMMUNITY
 #$ KEYWORDS: reset, mode, modes, adjustments, aux, switch
 #$ AUTHOR: Higor Wuttke Nunes
-#$ DESCRIPTION: Resets modes to 4.3 higor 
+#$ DESCRIPTION: Resets modes to 4.4 higor 
 
 # aux switch settings
 
