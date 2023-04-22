@@ -1,0 +1,28 @@
+#$ TITLE: Higor 4.3 Modes and Adjustment settings
+#$ FIRMWARE_VERSION: 4.3
+#$ CATEGORY: MODES
+#$ STATUS: COMMUNITY
+#$ KEYWORDS: reset, mode, modes, adjustments, aux, switch
+#$ AUTHOR: Higor Wuttke Nunes
+#$ DESCRIPTION: Resets modes and adjustment ranges to 4.3 higor 
+
+# aux switch settings
+
+aux 0 0 0 1875 1950 0 0
+aux 1 0 0 1675 1775 0 0
+aux 2 0 0 1500 1600 0 0
+aux 3 0 0 1300 1425 0 0
+aux 4 0 0 1125 1225 0 0
+aux 5 0 0 950 1025 0 0
+aux 6 2 0 1300 1375 0 0
+aux 7 2 0 1125 1200 0 0
+aux 8 2 0 950 1025 0 0
+aux 9 27 1 1800 1925 0 0
+aux 10 46 1 1900 1975 0 0
+aux 11 46 1 1800 1850 0 0
+aux 12 13 0 1700 1875 0 0
+aux 13 13 0 1125 1300 0 0
+aux 14 28 0 1850 1900 0 0
+aux 15 28 0 1675 1725 0 0
+aux 16 35 0 1500 1575 0 0
+aux 17 35 0 1375 1425 0 0
