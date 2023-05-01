@@ -6,6 +6,7 @@
 #$ KEYWORDS: rates, betaflight
 #$ AUTHOR: Higor Wuttke Nunes
 #$ DESCRIPTION: Higor Betaflight rates - BETAFLIGTH 
+#$ INCLUDE: presets/4.3/rates/defaults.txt
 
 rateprofile 0
 
