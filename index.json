@@ -1495,8 +1495,8 @@
     },
     {
       "fullPath": "presets/4.3/rates/higor_cinematic.txt",
-      "hash": "714d9b60dd849d084963753b6110d3d04f490b29544802652cea17d91d52efb7",
-      "title": "Higor rates",
+      "hash": "e9583ab3b43b86f77202a2668444a2cee758e9cd1798c30ac902b066a0eb4aef",
+      "title": "Higor cinematic rates",
       "firmware_version": [
         "4.3",
         "4.4"
@@ -1513,8 +1513,8 @@
     },
     {
       "fullPath": "presets/4.3/rates/higor_freestyle.txt",
-      "hash": "c05acae0deec06aa9b00ee2807258570c8465af41b076873da5f992684e725f4",
-      "title": "Higor rates",
+      "hash": "a2ce8b25c0578a6af120b30386eeb111f954bfb11a1cd7eafc02da9c8db3bfe5",
+      "title": "Higor freestyle rates",
       "firmware_version": [
         "4.3",
         "4.4"
@@ -3837,40 +3837,6 @@
         "sbang"
       ],
       "author": "QuadMcFly (Ryan Harrell)",
-      "priority": 10000
-    },
-    {
-      "fullPath": "presets/4.4/rates/higor_cinematic.txt",
-      "hash": "b6720af25b39af147f8dd2ba8703c60642b73c5aedce438bd9d4d688cc647218",
-      "title": "Higor rates",
-      "firmware_version": [
-        "4.3",
-        "4.4"
-      ],
-      "category": "RATES",
-      "status": "COMMUNITY",
-      "keywords": [
-        "rates",
-        "betaflight"
-      ],
-      "author": "Higor Wuttke Nunes",
-      "priority": 10000
-    },
-    {
-      "fullPath": "presets/4.4/rates/higor_freestyle.txt",
-      "hash": "fb116a71c5569c7a7237d3f6719f14207a5fb6c7acd78acc545aae9551b64bfe",
-      "title": "Higor rates",
-      "firmware_version": [
-        "4.3",
-        "4.4"
-      ],
-      "category": "RATES",
-      "status": "COMMUNITY",
-      "keywords": [
-        "rates",
-        "betaflight"
-      ],
-      "author": "Higor Wuttke Nunes",
       "priority": 10000
     },
     {
