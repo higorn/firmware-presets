@@ -825,8 +825,8 @@
     },
     {
       "fullPath": "presets/4.3/modes/higor.txt",
-      "hash": "12b5433bc1818e1247820cdeeb49cd3e7fb3619dcfc1f8b08a8a7f5914e4c458",
-      "title": "Higor 4.3 Modes and Adjustment settings",
+      "hash": "8b7274741719e46fa5f9a36930b48d4960af2a46c9d419f415a10eeef83ddcfa",
+      "title": "Higor 4.3 Modes",
       "firmware_version": [
         "4.3"
       ],
@@ -1492,6 +1492,42 @@
       ],
       "author": "Betaflight",
       "priority": 0
+    },
+    {
+      "fullPath": "presets/4.3/rates/higor_cinematic.txt",
+      "hash": "714d9b60dd849d084963753b6110d3d04f490b29544802652cea17d91d52efb7",
+      "title": "Higor rates",
+      "firmware_version": [
+        "4.3",
+        "4.4"
+      ],
+      "category": "RATES",
+      "status": "COMMUNITY",
+      "keywords": [
+        "rates",
+        "betaflight",
+        "cinematic"
+      ],
+      "author": "Higor Wuttke Nunes",
+      "priority": 10000
+    },
+    {
+      "fullPath": "presets/4.3/rates/higor_freestyle.txt",
+      "hash": "c05acae0deec06aa9b00ee2807258570c8465af41b076873da5f992684e725f4",
+      "title": "Higor rates",
+      "firmware_version": [
+        "4.3",
+        "4.4"
+      ],
+      "category": "RATES",
+      "status": "COMMUNITY",
+      "keywords": [
+        "rates",
+        "betaflight",
+        "freestyle"
+      ],
+      "author": "Higor Wuttke Nunes",
+      "priority": 10000
     },
     {
       "fullPath": "presets/4.3/rates/illusionfpv_freestyle.txt",
@@ -3643,6 +3679,26 @@
       "priority": 1000000
     },
     {
+      "fullPath": "presets/4.4/modes/higor.txt",
+      "hash": "9d2f81acea7ae8da1fe00accb87ebcb1b954316914a42d9eea2fbe363d16010a",
+      "title": "Higor 4.4 Modes",
+      "firmware_version": [
+        "4.4"
+      ],
+      "category": "MODES",
+      "status": "COMMUNITY",
+      "keywords": [
+        "reset",
+        "mode",
+        "modes",
+        "adjustments",
+        "aux",
+        "switch"
+      ],
+      "author": "Higor Wuttke Nunes",
+      "priority": 0
+    },
+    {
       "fullPath": "presets/4.4/osd/QuadMcFly_DJI_HD_OSD.txt",
       "hash": "1bdc587fd4223c8526a7954c0b44e7bfc98a8b9d556de729d24376d06e29f3be",
       "title": "QuadMcFly - DJI HD OSD",
@@ -3781,6 +3837,40 @@
         "sbang"
       ],
       "author": "QuadMcFly (Ryan Harrell)",
+      "priority": 10000
+    },
+    {
+      "fullPath": "presets/4.4/rates/higor_cinematic.txt",
+      "hash": "b6720af25b39af147f8dd2ba8703c60642b73c5aedce438bd9d4d688cc647218",
+      "title": "Higor rates",
+      "firmware_version": [
+        "4.3",
+        "4.4"
+      ],
+      "category": "RATES",
+      "status": "COMMUNITY",
+      "keywords": [
+        "rates",
+        "betaflight"
+      ],
+      "author": "Higor Wuttke Nunes",
+      "priority": 10000
+    },
+    {
+      "fullPath": "presets/4.4/rates/higor_freestyle.txt",
+      "hash": "fb116a71c5569c7a7237d3f6719f14207a5fb6c7acd78acc545aae9551b64bfe",
+      "title": "Higor rates",
+      "firmware_version": [
+        "4.3",
+        "4.4"
+      ],
+      "category": "RATES",
+      "status": "COMMUNITY",
+      "keywords": [
+        "rates",
+        "betaflight"
+      ],
+      "author": "Higor Wuttke Nunes",
       "priority": 10000
     },
     {
