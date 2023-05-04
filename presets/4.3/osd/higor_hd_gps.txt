@@ -1,0 +1,33 @@
+#$ TITLE: Higor HD OSD - DJI with GPS 
+#$ FIRMWARE_VERSION: 4.3
+#$ FIRMWARE_VERSION: 4.4
+#$ CATEGORY: OSD
+#$ STATUS: COMMUNITY
+#$ KEYWORDS: OSD, HD, GPS
+#$ AUTHOR: Higor Wuttke Nunes
+#$ DESCRIPTION: Set HD OSD elements with GPS
+#$ INCLUDE: presets/4.3/osd/defaults.txt
+
+set osd_vbat_pos = 545
+set osd_rssi_pos = 406
+set osd_link_quality_pos = 3531
+set osd_rssi_dbm_pos = 3563
+set osd_tim_2_pos = 3117
+set osd_flymode_pos = 2082
+set osd_throttle_pos = 2531
+set osd_vtx_channel_pos = 67
+set osd_current_pos = 2497
+set osd_mah_drawn_pos = 2467
+set osd_craft_name_pos = 362
+set osd_gps_speed_pos = 3520
+set osd_gps_sats_pos = 3499
+set osd_home_dir_pos = 2138
+set osd_home_dist_pos = 2104
+set osd_flight_dist_pos = 567
+set osd_compass_bar_pos = 2070
+set osd_altitude_pos = 2510
+set osd_warnings_pos = 2421
+set osd_avg_cell_voltage_pos = 2434
+set osd_disarmed_pos = 2454
+set osd_gps_sats_show_hdop = ON
+set osd_displayport_device = MSP

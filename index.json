@@ -907,6 +907,24 @@
       "priority": 0
     },
     {
+      "fullPath": "presets/4.3/osd/higor_hd_gps.txt",
+      "hash": "8286f96c4a7c28a6eae7dc03c10aa486ff30500e681186df13fab2ea995a93a8",
+      "title": "Higor HD OSD - DJI with GPS",
+      "firmware_version": [
+        "4.3",
+        "4.4"
+      ],
+      "category": "OSD",
+      "status": "COMMUNITY",
+      "keywords": [
+        "OSD",
+        "HD",
+        "GPS"
+      ],
+      "author": "Higor Wuttke Nunes",
+      "priority": 0
+    },
+    {
       "fullPath": "presets/4.3/other/ELRS_Passthrough.txt",
       "hash": "1314352dd602fa60a9d8737439b20b91ffdd2ab0a92a378e66a7367f15f7f758",
       "title": "ExpressLRS Passthrough Betaflight Settings",
